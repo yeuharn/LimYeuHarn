@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lim Yeu Harn</string>
+    <string name="spm">SPM</string>
+    <string name="o_level">O Level</string>
+    <string name="uec">UEC</string>
+    <string name="enter_your_grade">Enter your grade</string>
+    <string name="a_b_c_f">A, B, C, F</string>
+    <string name="english">English</string>
+    <string name="math">Math</string>
+    <string name="malay">Malay</string>
+    <string name="physics">Physics</string>
+    <string name="science">Science</string>
+    <string name="submit">Submit</string>
+    <string name="select_your_qualification">Select Your Qualification</string>
+    <string name="qualified_message">Qualified to enter</string>
+    <string name="not_qualified_message">Not qualified</string>
+    <string name="extra_info">Consider Diploma offered at Perak, Johor, Penang and Sabah branch</string>
+</resources>
